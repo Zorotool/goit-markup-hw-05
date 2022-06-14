@@ -422,7 +422,8 @@ margin-bottom: 30px;
     background-color: #2196F3;
     }
 
-.social .link:hover .icon {
+.social .link:hover .icon,
+.social .link:focus .icon {
 fill: #F5F4FA;
 }
 
